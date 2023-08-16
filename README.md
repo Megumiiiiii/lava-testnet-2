@@ -29,6 +29,8 @@
 - [Website](https://www.lavanet.xyz/)
 - [Docs](https://docs.lavanet.xyz/)
 
+### Zealy
+- [Zeally](https://zealy.io/c/lavanetwork/invite/SlpAMGRv0qohD8ZS03CT6)
 
 ### Update Sistem
 ```
