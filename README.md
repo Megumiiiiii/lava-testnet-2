@@ -125,7 +125,7 @@ sudo systemctl start lavad
 
 ### Cek logs
 ```
-sudo journalctl -u lavad -f
+sudo journalctl -u lavad -f --no-hostname -o cat
 ```
 ![Screenshot_99](https://github.com/Megumiiiiii/lava-testnet-2/assets/98658943/e2c5eacb-a323-431c-acf2-1984cdfcb155)
 
