@@ -155,7 +155,7 @@ backup pharse, copas address
 ### Create Validator
 ```
 lavad tx staking create-validator \
-    --amount="50000000ulava" \
+    --amount="50000ulava" \
     --pubkey=$(lavad tendermint show-validator --home "$HOME/.lava/") \
     --moniker="NamaMu" \
     --chain-id=lava-testnet-2 \
